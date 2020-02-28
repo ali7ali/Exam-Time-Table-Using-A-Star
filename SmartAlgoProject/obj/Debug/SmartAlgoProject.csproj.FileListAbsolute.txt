@@ -1,0 +1,7 @@
+C:\Users\Trouble_Maker\Source\Repos\SmartAlgoProject\SmartAlgoProject\bin\Debug\SmartAlgoProject.exe.config
+C:\Users\Trouble_Maker\Source\Repos\SmartAlgoProject\SmartAlgoProject\bin\Debug\SmartAlgoProject.exe
+C:\Users\Trouble_Maker\Source\Repos\SmartAlgoProject\SmartAlgoProject\bin\Debug\SmartAlgoProject.pdb
+C:\Users\Trouble_Maker\Source\Repos\SmartAlgoProject\SmartAlgoProject\obj\Debug\SmartAlgoProject.csprojAssemblyReference.cache
+C:\Users\Trouble_Maker\Source\Repos\SmartAlgoProject\SmartAlgoProject\obj\Debug\SmartAlgoProject.csproj.CoreCompileInputs.cache
+C:\Users\Trouble_Maker\Source\Repos\SmartAlgoProject\SmartAlgoProject\obj\Debug\SmartAlgoProject.exe
+C:\Users\Trouble_Maker\Source\Repos\SmartAlgoProject\SmartAlgoProject\obj\Debug\SmartAlgoProject.pdb
